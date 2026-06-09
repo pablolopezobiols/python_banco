@@ -16,9 +16,6 @@ INTENTOS_CONEXION = 3
 PAUSA_CONEXION = 1
 
 
-# =========================================
-# FUNCIONES
-# =========================================
 
 
 def simular_conexion():
